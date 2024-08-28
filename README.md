@@ -1,10 +1,12 @@
-Simple Car Game
-
-A simple car game developed using VB.NET where players control a car to avoid obstacles on the road. This project is intended for beginners to practice VB.NET programming and basic game development concepts.
+Tic-Tac-Toe in VB.NET
+This repository contains a simple Tic-Tac-Toe game built using VB.NET. The game is played on a 3x3 grid where two players, X and O, take turns to mark the spaces. The first player to align three of their marks horizontally, vertically, or diagonally wins the game.
 
 Features
-Player Control: Control a car using keyboard arrow keys.
-Obstacle Avoidance: Dodge obstacles on the road as the car moves forward.
-Score Tracking: Keep track of the score based on how long you can avoid the obstacles.
-Simple Graphics: Basic 2D graphics suitable for a beginner project.
-Collision Detection: Game over when the car collides with an obstacle.
+Two-player mode: Play against a friend in a local multiplayer setting.
+Simple UI: Easy-to-use interface built with Windows Forms.
+Win detection: Automatically detects when a player wins or if the game is a draw.
+Reset option: Restart the game after it ends without closing the application.
+Getting Started
+Prerequisites
+Visual Studio: You need Visual Studio 2017 or later with .NET Desktop Development workload installed.
+.NET Framework: The project targets .NET Framework 4.x.
